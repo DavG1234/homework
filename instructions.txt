@@ -1,0 +1,8 @@
+a project that fills a list of random length with random 
+numbers than saves them to a file.
+
+example = [0,3,5,1,7,8] saved as numbers.txt
+
+he can do research but no ai or copy and pasting code!
+
+save code in numbers.py and commit then push to github.
