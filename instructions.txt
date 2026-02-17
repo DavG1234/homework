@@ -1,8 +1,16 @@
-a project that fills a list of random length with random 
-numbers than saves them to a file.
+a tic tac toe game which takes alternating inputs from two players asking for x and y to put x or o in and draws it in the console
+game does not need to detect if their is a winner but should stop when board is full.
 
-example = [0,3,5,1,7,8] saved as numbers.txt
+example:
+
+x|o|x
+-----
+x| |o
+-----
+o|x| 
+player 2 x: 0
+player 2 y: 
 
 he can do research but no ai or copy and pasting code!
 
-save code in numbers.py and commit then push to github.
+save code in tictactoe.py and commit then push to github.
